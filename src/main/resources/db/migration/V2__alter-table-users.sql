@@ -1,0 +1,1 @@
+alter table users change column userName user_name varchar(255) not null default '';
